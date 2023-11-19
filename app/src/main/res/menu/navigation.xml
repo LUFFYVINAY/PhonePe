@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_24dp"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/navigation_offers"
+        android:icon="@drawable/ic_offer_24dp"
+        android:title="Offers"
+        />
+    <item
+        android:id="@+id/navigation_payment"
+        android:icon="@drawable/ic_payment_24dp"
+        android:title="@string/scan_payment"
+        />
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_account_24dp"
+        android:title="MY Account"
+        />
+    <item
+        android:id="@+id/navigation_transaction"
+        android:icon="@drawable/ic_transactions_24dp"
+        android:title="Transaction"
+        />
+
+</menu>
